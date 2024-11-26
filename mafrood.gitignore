@@ -1,0 +1,18 @@
+# Operating system files
+/.DS_Store
+/Thumbs.db
+
+# Build artifacts
+/build/
+/dist/
+
+# Logs
+*.log
+
+# IDE-specific files
+/.idea/
+/.vscode/
+
+# Sensitive information
+/secrets.json
+/api_keys.txt
